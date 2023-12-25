@@ -13,7 +13,6 @@ Implement the following Web automated checks over DEMO ONLINE SHOP: https://www.
 
  
 For setting up development tools visit : https://docs.getxray.app/display/XRAY/Testing+using+WebDriverIO+and+Cucumber+in+JavaScript
-
-#usage
+<h2>usage</h2>
 
 run npx wdio run wdio.conf.js 
